@@ -34,3 +34,4 @@ a:hover {
   color: #666;
 }
 /* css styles */
+@media(max-width 768px) {body{padding :1 rem ;}}
